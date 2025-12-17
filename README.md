@@ -1,0 +1,1 @@
+This contains the code I used for my battlesnake project. The best performing snake is located at models/ppo_final.pt. Some of the path names within the project need to be fixed as the directory structure has been changed somewhat
